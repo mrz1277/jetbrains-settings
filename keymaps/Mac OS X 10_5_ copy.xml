@@ -12,6 +12,9 @@
   <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="Rerun" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="UsageView.Rerun" />
   <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
