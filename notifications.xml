@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Gem Manager" shouldLog="false" />
     <notification groupId="Plugin Error" shouldLog="false" />
   </component>
 </application>
