@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="client" />
-    <option name="defaultScopeName" value="client" />
+    <option name="customScope" value="server" />
+    <option name="defaultScopeName" value="server" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="client" />
+    <option name="SEARCH_SCOPE" value="server" />
   </component>
 </application>
