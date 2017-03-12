@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="bower install" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/bower" />
+      <option name="PARAMETERS" value="install" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Projects/ujet/ujet-server/web/client" />
+    </exec>
+  </tool>
+  <tool name="bundle install" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.rbenv/shims/bundle" />
+      <option name="PARAMETERS" value="install" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="npm install" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/npm" />
+      <option name="PARAMETERS" value="install" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Projects/ujet/ujet-server/web/client" />
+    </exec>
+  </tool>
+</toolSet>
