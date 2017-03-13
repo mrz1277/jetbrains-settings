@@ -29,7 +29,7 @@
   </tool>
   <tool name="npm install - crm_adaptor" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/usr/loca/bin/npm" />
+      <option name="COMMAND" value="/usr/local/bin/npm" />
       <option name="PARAMETERS" value="install" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Projects/ujet-server/web/crm_adaptor" />
     </exec>
