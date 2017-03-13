@@ -8,6 +8,9 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift w" />
+  </action>
   <action id="CollapseSelection" />
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="ctrl meta alt c" />
