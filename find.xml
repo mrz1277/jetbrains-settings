@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ruby" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,16 +17,18 @@
       <mask>*.json</mask>
       <mask>*.jso</mask>
       <mask>*.js</mask>
-      <mask>*.co</mask>
-      <mask>*.c</mask>
       <mask>*.rb</mask>
       <mask>*.r</mask>
       <mask>*.o</mask>
-      <mask>*.</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
       <mask>*.coffee</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coff</mask>
+      <mask>*.cof</mask>
+      <mask>*.co</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.rub</mask>
+      <mask>*.ruby</mask>
     </recentFileMasks>
   </component>
 </application>
