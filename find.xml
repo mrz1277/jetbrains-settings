@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ruby" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -26,9 +25,10 @@
       <mask>*.cof</mask>
       <mask>*.co</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.rub</mask>
       <mask>*.ruby</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
