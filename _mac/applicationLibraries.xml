@@ -3300,6 +3300,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/coinone-0.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="coinone (v0.8.0.a, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/coinone-0.8.0.a/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/coinone-0.8.0.a/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/coinone-0.8.0.a/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/coinone-0.8.0.a/lib" />
+      </SOURCES>
+    </library>
     <library name="colored (v1.2, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/colored-1.2/lib" />
@@ -6356,6 +6366,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/firebase-0.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="firebase (v0.2.6@81a084, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/bundler/gems/firebase-ruby-81a0843bd916/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/bundler/gems/firebase-ruby-81a0843bd916/lib" />
       </SOURCES>
     </library>
     <library name="fission (v0.5.0, rbenv: 2.2.2) [gem]">
