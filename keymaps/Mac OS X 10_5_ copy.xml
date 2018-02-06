@@ -15,6 +15,11 @@
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="ctrl meta alt c" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Move" />
   <action id="Refresh" />
   <action id="Replace" />
