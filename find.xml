@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,7 +19,6 @@
       <mask>*.js</mask>
       <mask>*.r</mask>
       <mask>*.o</mask>
-      <mask>*.coffee</mask>
       <mask>*.coffe</mask>
       <mask>*.coff</mask>
       <mask>*.cof</mask>
@@ -33,6 +32,7 @@
       <mask>*.yam</mask>
       <mask>*.yaml</mask>
       <mask>*.rb</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
